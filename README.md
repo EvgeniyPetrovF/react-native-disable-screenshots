@@ -1,6 +1,8 @@
 # react-native-disable-screenshots
 
-disable screenshots
+# ANDROID ONLY!
+
+This package provides method for disabling screenshots
 
 ## Installation
 
@@ -10,13 +12,11 @@ npm install react-native-disable-screenshots
 
 ## Usage
 
-
 ```js
-import { multiply } from 'react-native-disable-screenshots';
+import { setSecureStatus } from 'react-native-disable-screenshots';
 
-// ...
-
-const result = multiply(3, 7);
+// to disable screenshots
+setSecureStatus(true);
 ```
 
 ## Contributing

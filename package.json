@@ -40,7 +40,7 @@
     "android"
   ],
   "repository": "https://github.com/EvgeniyPetrovF/react-native-disable-screenshots",
-  "author": "Evgeniy Petrov <evgeny.p@bnology.com> (https://github.com/EvgeniyPetrovF)",
+  "author": "Evgeniy Petrov <evgeniy.petrov@fojin.tech> (https://github.com/EvgeniyPetrovF)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/EvgeniyPetrovF/react-native-disable-screenshots/issues"

@@ -1,5 +1,5 @@
 const DisableScreenshots = require('./NativeDisableScreenshots').default;
 
-export function multiply(a: number, b: number): number {
-  return DisableScreenshots.multiply(a, b);
+export function setSecureStatus(flag: boolean): void {
+  return DisableScreenshots.setSecureStatus(flag);
 }
